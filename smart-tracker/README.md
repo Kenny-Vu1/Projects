@@ -2,14 +2,13 @@
 # Smart Tracker Command Line Input
 
 Command line tool that tracks tasks.  
-Automatically schedules follow-ups and or suggestions based on user input.  
+Stores tasks, tracks frequency of task within 7 days.  
 
 ---
 
 ## Features
-- Add event of user choice with an optional date and description
-- Auto-schedule follow up reminders as future events
-- Can suggest events based on user's input
+- Add events with custom type, details, and date (defaults to today)
+- Recaps frequency of events based on tasks input
 - View events by dates
   
 ---
@@ -17,6 +16,7 @@ Automatically schedules follow-ups and or suggestions based on user input.
 ## How to Run
 ```bash
 python main.py add Run "Run 3 miles" 2025-03-25
+python main.py add Run "Run 4 miles" 
 python main.py view
+python main.py recap Run
 python main.py clear
-python main.py recap run

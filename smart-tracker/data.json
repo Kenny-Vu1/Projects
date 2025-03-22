@@ -1,22 +1,12 @@
 [
   {
-    "type": "Run",
-    "title": "ran 69 miles",
-    "date": "2025-03-25"
+    "type": "run",
+    "title": "89 miles",
+    "date": "2025-03-21"
   },
   {
-    "type": "Run",
-    "title": "ran 69 miles",
-    "date": "2025-03-24"
-  },
-  {
-    "type": "Run",
-    "title": "ran 69 miles",
-    "date": "2025-03-25"
-  },
-  {
-    "type": "Run",
-    "title": "ran 69 miles",
-    "date": "2025-03-23"
+    "type": "run",
+    "title": "82 miles",
+    "date": "2025-03-21"
   }
 ]
