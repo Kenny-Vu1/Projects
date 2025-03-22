@@ -1,12 +1,22 @@
 [
   {
-    "type": "run",
+    "type": "Run",
     "title": "ran 69 miles",
     "date": "2025-03-25"
   },
   {
-    "type": "run",
-    "title": "ran 420 miles",
+    "type": "Run",
+    "title": "ran 69 miles",
+    "date": "2025-03-24"
+  },
+  {
+    "type": "Run",
+    "title": "ran 69 miles",
     "date": "2025-03-25"
+  },
+  {
+    "type": "Run",
+    "title": "ran 69 miles",
+    "date": "2025-03-23"
   }
 ]

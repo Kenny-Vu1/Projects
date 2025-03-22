@@ -16,6 +16,7 @@ Automatically schedules follow-ups and or suggestions based on user input.
 
 ## How to Run
 ```bash
-python main.py add run "Run 3 miles" 2025-03-25
+python main.py add Run "Run 3 miles" 2025-03-25
 python main.py view
-python main.py suggest
+python main.py clear
+python main.py recap run
