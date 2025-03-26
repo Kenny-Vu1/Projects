@@ -25,4 +25,4 @@ python main.py clear
 
 ## Web-Based Interface
 Preview
-![Task Tracker UI](screenshots/task-tracker.png)
+![Task Tracker UI](screenshots/task-tracker-ui.png)
