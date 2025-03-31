@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type="module" src="a_star_logic.js"></script>
+    </head>
+
+    <body>
+        <h1>A* algorithm on a grid</h1>
+        <h2>Fill in Grid Size</h2>
+        <input type="text" id="x-axis" placeholder="X-axis Domain" value="10">
+        <input type="text" id="y-axis" placeholder="Y-axis Range" value="10">
+        <!-- <button type="button" onclick="gridcreation()">Make Grid</button> -->
+
+        <h2>Start Point Coordinates</h2>
+        <input type="text" id="x-axis_start" placeholder="X-axis coordinate" value="0">
+        <input type="text" id="y-axis_start" placeholder="Y-axis coordinate" value="0">
+
+        <h2>End Point Coordinates</h2>
+        <input type="text" id="x-axis_end" placeholder="X-axis coordinate" value="9">
+        <input type="text" id="y-axis_end" placeholder="Y-axis coordinate" value="9">
+        
+        <button type="button" onclick="runAStar()">Run A*</button>
+
+        <p id="result">Path Found:</p>
+    </body>
+</html>

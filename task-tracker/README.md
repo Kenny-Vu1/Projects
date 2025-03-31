@@ -1,5 +1,5 @@
 
-# Task Tracker - Command Line Input and Web-based interface
+# Task Tracker - Command Line Input and Web-Based Interface
 
 Command line tool that tracks tasks. Also has web-based interface version with same function. 
 Stores tasks, tracks frequency of task within 7 days.  
@@ -25,4 +25,5 @@ python main.py clear
 
 ## Web-Based Interface
 Preview
+
 ![Task Tracker UI](screenshots/task-tracker-ui.png)
